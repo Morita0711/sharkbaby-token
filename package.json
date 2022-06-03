@@ -8,7 +8,6 @@
     "compile": "npx hardhat compile",
     "clean": "npx hardhat clean",
     "start": "npx hardhat run scripts/deploy.js",
-    "fantomtest": "npx hardhat run --network fantomtestnet scripts/deploy.js",
     "avax": "npx hardhat run --network avalanche scripts/deploy.js",
     "avax_test": "npx hardhat run --network avalanche_test scripts/deploy.js",
     "bsc": "npx hardhat run --network bsc scripts/deploy.js",
